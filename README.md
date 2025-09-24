@@ -166,7 +166,8 @@ Authorization: Bearer <your_access_token>
 * Add email service integration for password reset
 * Add unit tests and CI/CD
 
+- Author : Ngusa
 
 ## 📜 License
 
-MIT License © 2025 – Your Name
+MIT License © 2025
