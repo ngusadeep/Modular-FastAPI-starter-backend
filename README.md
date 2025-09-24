@@ -168,6 +168,17 @@ Authorization: Bearer <your_access_token>
 
 - Author : Ngusa
 
-## 📜 License
+## 🤝 Contributing
 
-MIT License © 2025
+Contributions are welcome!
+If you'd like to improve this project, feel free to **fork the repository**, create a new branch, and submit a **pull request**.
+
+Steps:
+1. Fork this repo
+2. Create your feature branch: `git checkout -b feature/your-feature`
+3. Commit your changes: `git commit -m 'Add some feature'`
+4. Push to the branch: `git push origin feature/your-feature`
+5. Open a pull request 🚀
+
+## 📜 License
+By contributing, you agree that your contributions will be licensed under the [MIT License](./LICENSE) © 2025
